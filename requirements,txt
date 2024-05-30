@@ -1,0 +1,5 @@
+# fastapi - building our server
+#  pydantic - schema definition / serialisation data validation and parsing
+#  uvicorn - run our server
+#  sqlalchemy - define our database schema (ORM)
+#  alembic - manage the database schema
